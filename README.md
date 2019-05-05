@@ -1,5 +1,1 @@
-Esse é meu primeiro projeto GIT.
-
-Alterar o que quiser.
-Nova linha add
-~...
+Esse é meu primeiro projeto GIT. (Alterado e atualizado.)
